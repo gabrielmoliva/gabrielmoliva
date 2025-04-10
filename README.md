@@ -11,13 +11,13 @@ I'm a Computer Science undergraduate at UFS focused on Backend Development, Soft
 <p>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
   <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white"/>
 </p>
 
 ---
@@ -33,19 +33,18 @@ I'm a Computer Science undergraduate at UFS focused on Backend Development, Soft
 
 ## 📂 Featured Repositories
 
-- [🔗 Chat App with RabbitMQ + SSE](https://github.com/your-username/your-chat-repo)  
-  Real-time chat application using dynamic RabbitMQ queues and Server-Sent Events.
+- [🧠 Pavement Comfort Predictor](https://github.com/gabrielmoliva/roadCondition)  
+  Machine Learning model for predicting pavement comfort classification using scikit-learn.
 
-- [🧠 Pavement Comfort Predictor](https://github.com/your-username/your-pavement-repo)  
-  Flutter-based mobile app with on-device AI for predicting pavement comfort using sensors.
+- [🔗 Chat App with RabbitMQ](https://github.com/DCOMP-UFS/chat-em-linha-de-comando-via-rabbitmq-victorceschini)  
+  Real-time chat application using dynamic RabbitMQ queues with Java.
 
-- [🛠️ Semantic Analyzer with SableCC](https://github.com/your-username/your-compiler-repo)  
-  Semantic analyzer for a custom programming language, handling scope, type checking, and expressions.
+- [🛠️ Caju Compiler with SableCC](https://github.com/rafaseto/caju-compiler)  
+  Custom compiler for the experimental language Caju, using SableCC.
 
 ---
 
 ## 📫 Contact
 
-- 📧 gabriel@email.com  
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-linkedin/)  
-- 🌐 [Portfolio (optional)](https://your-website.dev/)
+- 📧 moliva.gabriel@gmail.com  
+- 💼 [LinkedIn](https://www.linkedin.com/in/gabriel-miranda-oliva-b49085242/)  
