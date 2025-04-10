@@ -22,15 +22,6 @@ I'm a Computer Science undergraduate at UFS focused on Backend Development, Soft
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=gabrielmoliva&show_icons=true&theme=tokyonight&count_private=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielmoliva&layout=compact&theme=tokyonight" />
-</p>
-
----
-
 ## 📂 Featured Repositories
 
 - [🧠 Pavement Comfort Predictor](https://github.com/gabrielmoliva/roadCondition)  
@@ -41,6 +32,15 @@ I'm a Computer Science undergraduate at UFS focused on Backend Development, Soft
 
 - [🛠️ Caju Compiler with SableCC](https://github.com/rafaseto/caju-compiler)  
   Custom compiler for the experimental language Caju, using SableCC.
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=gabrielmoliva&show_icons=true&theme=tokyonight&count_private=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielmoliva&layout=compact&theme=tokyonight" />
+</p>
 
 ---
 
