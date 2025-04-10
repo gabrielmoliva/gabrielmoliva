@@ -25,8 +25,8 @@ I'm a Computer Science undergraduate at UFS focused on Backend Development, Soft
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img width="58%" src="https://github-readme-stats.vercel.app/api?username=gabrielmoliva&show_icons=true&theme=tokyonight&count_private=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielmoliva&layout=compact&theme=tokyonight&count_private=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=gabrielmoliva&show_icons=true&theme=tokyonight&count_private=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielmoliva&layout=compact&theme=tokyonight" />
 </p>
 
 ---
